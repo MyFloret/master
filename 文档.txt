@@ -1,0 +1,200 @@
+fetch("https://api.shadiao.pro/chp").then(r => r.json()).then(rs => { console.log(rs.data.text) })
+fetch("https://api.shadiao.pro/pyq").then(r => r.json()).then(rs => { console.log(rs.data.text) })
+fetch("https://api.shadiao.pro/du").then(r =>   r.json()).then(rs => { console.log(rs.data.text) })
+
+
+// 使用示例
+var container = document.getElementById('pagercontainer');
+var pagerNumber = 50;
+var middlePager = 5;
+var customLink = 'https://www.example.com/page/';
+createPager(2, pagerNumber, middlePager, container, customLink);
+
+    <div class="caseNavs bacFbac">
+        <span>当前位置：</span>
+        <a href="" target="_blank">首页</a>
+        <span>&gt;</span>
+        <a href="" target="_blank">关于我们</a>
+        <span>&gt;</span>
+        <span>团队风采</span>
+        <span>&gt;</span>
+        <span>@(Model.TopicTitle)</span>
+    </div>
+
+发布秒火好酒代理王抖音小程序，提审叮铛达小程序过审，优化秒火网络官网样式，及调整用户交互功能，更换酒网、食品网品牌升级页面背景图。
+
+07 12 18 23 31 05 09
+02 14 21 27 30 04 11
+09 16 22 29 29 03 08
+04 11 19 25 26 06 12
+08 15 24 30 25 01 07
+
+
+05 13 20 26 24 02 07
+11 17 23 31 25 05 09
+06 12 19 27 25 04 11
+03 14 22 28 25 03 08
+07 01 12 23 24 04 06
+
+
+
+
+
+
+
+
+"我在这里放一只猫猫 路过的朋友要是不开心的话可以摸摸它 心情会好很多
+　　　　　　 ＿＿
+　　　　　／＞　　フ
+　　　　　|  　_　 _ l
+　 　　　／` ミ＿xノ
+　　 　 /　　　 　 |
+　　　 /　 ヽ　　 ﾉ
+　 　 │　　|　|　|
+　／￣|　　 |　|　|
+　| (￣ヽ＿_ヽ_)__)
+　＼二つ"
+
+https://thirdwx.qlogo.cn/mmopen/vi_32/LWicoUend7QOrIKRQVaZh9vZC3pSqLrZyDGs9ODaWh1Tx1LSxt1kicqb4espZp
+ekDXAOJ3OpArpJCJmbZicpeWKbOnATZXBjiaQmDaMkic4dqqDw/132
+
+哈萨克斯坦、塔吉克斯坦、吉尔吉斯斯坦、乌兹别克斯坦和土库曼斯坦。
+https://www.hnjjwl.cn/
+element.style {
+    box-shadow: 0 0px 2px rgba(0, 0, 0, 0.5);
+}
+http://www.ants-city.com/index.aspx
+http://www.zzqtkj.cn/team.html
+http://www.ylhealth.cn/paizhao.html?bd_vid=11023196899871473787
+
+我的业务涉及到线下服务，该接口可帮助我的用户快速找到离他最近的代理商，方便用户进行附近门店查看；
+业务涉及附近门店地址导航，用于实时定位用户位置，精准计算附近门店距离和导航信息，帮助用户到店时的地图导航；
+业务涉及线下发货，帮助用户更好的收到物品 
+/pages/mountpage/mountpage?changCiId=649183270088478720 
+
+C:\Users\Administrator>mysqld --initialize --console
+
+for (const codePoint of str) {
+
+  console.log(codePoint.codePointAt(0).toString(16));
+
+}
+
+
+2023-10-31T09:00:49.487418Z 0 [System] [MY-015017] [Server] MySQL Server Initialization - start.
+
+2023-10-31T09:00:49.843744Z 0 [System] [MY-013169] [Server] E:\mysql\mysql-8.2.0-winx64\bin\mysqld.exe (mysqld 8.2.0) initializing of server in progress as 
+
+process 15048
+
+2023-10-31T09:00:50.509058Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+
+2023-10-31T09:01:03.198093Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+
+2023-10-31T09:01:34.056084Z 6 [Note] [MY-010454] [Server] A temporary password is generated for root@localhost: rsrxWbkur9%S
+
+2023-10-31T09:02:21.622631Z 0 [System] [MY-015018] [Server] MySQL Server Initialization - end.
+
+C:\Users\Administrator>
+
+APWCY5ws
+
+CREATE TABLE demo (column_name column_type)
+
+CREATE TABLE demo (column_name column_type,column_name2 column_type2)
+
+//document.write("<script src=\"http://api.map.baidu.com/api?v=1.3\" type=\"text/javascript\"></script>");
+document.write("<script type=\"text/javascript\" src=\"https://api.map.baidu.com/api?v=2.0&ak=TmmiXvSTvMpv9WSuN4q3zwZde7MSCUWP\"></script>");
+// 百度地图API功能
+function SpdlMap() {
+    this.PanelID = "SpdlMap";
+    this.Lng = '116.404 ';
+    this.Lat = '39.915';    
+    this.Level = 13;
+    this.IsInfoWindow = true;
+    this.Address = "";
+    this.CompanyName = "";
+    this.lnglatArray = [
+          ['119.701444', '29.143791'],
+          ['114.399073', '34.741958']
+        ]
+
+    this.CreateCompanyMap = function () {       
+        document.write("<div id=" + this.PanelID + " ></div>");
+        LoadSite(this.PanelID, this.Lng, this.Lat, this.IsInfoWindow, this.CompanyName, this.Level, this.Address);        
+    }   
+}
+function LoadSite(divId, lng, lat, infoWindow, CompanName, SizeCent, address) {
+    var map = new BMap.Map(divId);
+    if (lng.length < 3 || lat.length < 3) {
+        if (address.indexOf('市辖区')) {
+            address = address.replace('市辖区', '');
+        }
+        if (address.indexOf('市辖县')) {
+            address = address.replace('市辖县', '');
+        }
+        address = address.replace(/\s+/g, ""); 
+        if(address.length<1)
+        {
+            CreatAddesMap(divId, infoWindow, "该客户未提交公司地址，此处为秒火食品代理网地址", SizeCent, "河南省郑州市金水区国际企业中心B座");
+        }
+        else
+        {
+            CreatAddesMap(divId, infoWindow, "此公司还没有进行准确定位，此为该公司大概位置", SizeCent, address);   
+       }    
+    }
+    else {
+        var point = new BMap.Point(lng, lat);       
+        //var marker = new BMap.Marker(point);  // 创建标注
+
+
+        var markerIcon = new BMap.Icon("https://api.map.baidu.com/images/marker_red_sprite.png", new BMap.Size(23, 25));
+        var marker = new BMap.Marker(point, { icon: markerIcon });
+
+        
+
+        //marker.setAnimation(BMAP_ANIMATION_BOUNCE); //跳动的动画
+	    map.addOverlay(marker);              // 将标注添加到地图中
+	    map.centerAndZoom(point, SizeCent);       
+	    var opts = {	
+	      title : CompanName, // 信息窗口标题	  
+	    };
+	    var infoWindow = new BMap.InfoWindow("地址："+address, opts);  // 创建信息窗口对象 
+	    marker.addEventListener("click", function(){          
+		    map.openInfoWindow(infoWindow,point); //开启信息窗口
+	    });         
+        var label = new BMap.Label(CompanName, { offset: new BMap.Size(-77, -27) });
+        label.setStyle({ color: "#e70505", fontSize: "14px", border: "solid #c3c3c3 1px", height: "24px", background: "#ffffde" });
+        marker.setLabel(label);
+        map.addControl(new BMap.NavigationControl());
+        map.addControl(new BMap.ScaleControl());
+        map.addControl(new BMap.OverviewMapControl());
+        map.enableScrollWheelZoom(true);
+    }
+    
+}
+function CreatAddesMap(divId, infoWindow, Companyinfo, SizeCent, address) {
+    var map = new BMap.Map(divId);
+    var point = new BMap.Point(116.331398,39.897445);
+	map.centerAndZoom(point,12);
+	// 创建地址解析器实例
+	var myGeo = new BMap.Geocoder();
+	// 将地址解析结果显示在地图上,并调整地图视野
+	myGeo.getPoint(address, function(point){
+		if (point) {
+			map.centerAndZoom(point, SizeCent);
+			var marker = new BMap.Marker(point);  // 创建标注
+            marker.setAnimation(BMAP_ANIMATION_BOUNCE); //跳动的动画
+	        map.addOverlay(marker);              // 将标注添加到地图中                  
+             var label = new BMap.Label(Companyinfo, { offset: new BMap.Size(-150, 24) });
+            label.setStyle({ color: "#e70505", fontSize: "14px", border: "solid #c3c3c3 1px", height: "24px",  background: "#ffffde", padding: "2px 0 0 5px" });
+            marker.setLabel(label);
+		}else{
+            CreatAddesMap(divId, infoWindow, "该客户未提交公司地址，此处为秒火食品代理网地址", SizeCent, "河南省郑州市金水区国际企业中心B座"); 
+		}
+	}, "北京市");  
+    map.addControl(new BMap.NavigationControl());
+    map.addControl(new BMap.ScaleControl());
+    map.addControl(new BMap.OverviewMapControl());
+    map.enableScrollWheelZoom(true);
+}
